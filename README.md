@@ -28,5 +28,6 @@ user: admin
 pass: admin123
 
 
-Due To github space limit ,I have created zip files of few folders
+**UPDATE ABOUT ADDITIONAL FILES**
+Due To github space limit ,I have created zip files of few folders(Admin,Js,Database,Assets,Css)
 To execute this project correctly, zip all files in a single folder named Event Managment
